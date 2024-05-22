@@ -1,0 +1,34 @@
+[
+  {
+    "firstName": "love",
+    "lastName": "grace",
+    "otherNames": "",
+    "email": "love@gra.ce",
+    "phone": "1234543212",
+    "gender": "Other"
+  },
+  {
+    "firstName": "love",
+    "lastName": "grace",
+    "otherNames": "",
+    "email": "UY@HJ.COM",
+    "phone": "8976564321",
+    "gender": "Other"
+  },
+  {
+    "firstName": "yu",
+    "lastName": "hj",
+    "otherNames": "",
+    "email": "GH@JK.CO",
+    "phone": "2345678912",
+    "gender": "Other"
+  },
+  {
+    "firstName": "wq",
+    "lastName": "sa",
+    "otherNames": "",
+    "email": "UY@HJ.n",
+    "phone": "8976403231",
+    "gender": "Other"
+  }
+]
